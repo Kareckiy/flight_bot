@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5QOAEbZ21k=",
+  "success": true,
+  "projectFilePath": "/Users/karetskiy/net/FlightsBot/src/FlightsBot.Web/FlightsBot.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/karetskiy/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/karetskiy/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.deps.json
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.pdb
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/bin/Debug/net9.0/FlightsBot.Domain.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/bin/Debug/net9.0/FlightsBot.Domain.pdb
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.csproj.AssemblyReference.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.AssemblyInfoInputs.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.AssemblyInfo.cs
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.csproj.CoreCompileInputs.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsB.D46BF4CF.Up2Date
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/refint/FlightsBot.Infrustructure.Interfaces.DataAccess.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.pdb
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/ref/FlightsBot.Infrustructure.Interfaces.DataAccess.dll

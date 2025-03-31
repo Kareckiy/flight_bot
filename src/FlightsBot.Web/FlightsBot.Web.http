@@ -1,0 +1,6 @@
+@FlightsBot.Web_HostAddress = http://localhost:5244
+
+GET {{FlightsBot.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

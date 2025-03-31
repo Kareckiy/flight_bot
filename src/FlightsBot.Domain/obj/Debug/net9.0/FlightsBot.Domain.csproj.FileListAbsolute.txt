@@ -1,0 +1,13 @@
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/bin/Debug/net9.0/FlightsBot.Domain.deps.json
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/bin/Debug/net9.0/FlightsBot.Domain.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/bin/Debug/net9.0/FlightsBot.Domain.pdb
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.csproj.AssemblyReference.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.AssemblyInfoInputs.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.AssemblyInfo.cs
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.csproj.CoreCompileInputs.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/EFCoreNpgsqlNodaTime.cs
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/refint/FlightsBot.Domain.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.pdb
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/ref/FlightsBot.Domain.dll
