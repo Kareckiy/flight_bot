@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FlightsBot.Web.props" />
+</Project>

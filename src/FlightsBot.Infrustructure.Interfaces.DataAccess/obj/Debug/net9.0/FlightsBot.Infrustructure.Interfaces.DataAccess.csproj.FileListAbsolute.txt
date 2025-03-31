@@ -8,6 +8,7 @@
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.AssemblyInfoInputs.cache
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.AssemblyInfo.cs
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.csproj.CoreCompileInputs.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.sourcelink.json
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsB.D46BF4CF.Up2Date
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Interfaces.DataAccess.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Interfaces.DataAccess/obj/Debug/net9.0/refint/FlightsBot.Infrustructure.Interfaces.DataAccess.dll

@@ -1,4 +1,5 @@
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.deps.json
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.runtimeconfig.json
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.pdb
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/bin/Debug/net9.0/FlightsBot.Domain.dll
@@ -10,10 +11,10 @@
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.AssemblyInfoInputs.cache
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.AssemblyInfo.cs
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.csproj.CoreCompileInputs.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.sourcelink.json
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsB.1F8BB4AF.Up2Date
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/refint/FlightsBot.Infrustructure.Implementation.DataAccess.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.pdb
-/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/ref/FlightsBot.Infrustructure.Implementation.DataAccess.dll
-/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/bin/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.runtimeconfig.json
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/FlightsBot.Infrustructure.Implementation.DataAccess.genruntimeconfig.cache
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/obj/Debug/net9.0/ref/FlightsBot.Infrustructure.Implementation.DataAccess.dll

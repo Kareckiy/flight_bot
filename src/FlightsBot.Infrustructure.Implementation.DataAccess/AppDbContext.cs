@@ -8,7 +8,7 @@ using NodaTime;
 
 namespace FlightsBot.Infrustructure.Implementation.DataAccess;
 
-internal class AppDbContext(DbContextOptions<AppDbContext> options, IClock clock) : DbContext(options), IDbContext
+public class AppDbContext(DbContextOptions<AppDbContext> options, IClock clock) : DbContext(options), IDbContext
 {
     private readonly IClock _clock = clock;
 

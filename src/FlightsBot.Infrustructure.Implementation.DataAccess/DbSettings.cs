@@ -1,6 +1,6 @@
 namespace FlightsBot.Infrustructure.Implementation.DataAccess;
 
-internal class DbSettings
+public class DbSettings
 {
     public const string SchemaName = "flights_bot";
 }

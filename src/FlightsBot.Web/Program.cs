@@ -1,8 +1,14 @@
+using FlightsBot.Infrustructure.Implementation.DataAccess;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+// TODO: сделать контекст internal, возвращать через инстанс через публичный метод фабрики
+// TODO: регистрацию сервиса вынести в слой DataAccess через метод расширения
+builder.Services.AddDbContext<AppDbContext>();
 
 var app = builder.Build();
 

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x9G03ns766ZWKKg7uMYekuLH+GWOmhAYed8fDwGUSkQ=",
+  "Source": "FlightsBot.Web",
+  "BasePath": "_content/FlightsBot.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

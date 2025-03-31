@@ -11,3 +11,4 @@
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/refint/FlightsBot.Domain.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.pdb
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/ref/FlightsBot.Domain.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Domain/obj/Debug/net9.0/FlightsBot.Domain.sourcelink.json
