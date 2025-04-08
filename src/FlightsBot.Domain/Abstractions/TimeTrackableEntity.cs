@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 using NodaTime;
 
 namespace FlightsBot.Domain.Abstractions;
@@ -9,6 +10,5 @@ public abstract class TimeTrackableEntity
     public void Created(Instant now)
     {
         CreatedAt = now;
-
     }
 }

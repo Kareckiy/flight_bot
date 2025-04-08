@@ -1,4 +1,5 @@
 using FlightsBot.Infrustructure.Implementation.DataAccess;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,9 +7,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
+
 // TODO: сделать контекст internal, возвращать через инстанс через публичный метод фабрики
 // TODO: регистрацию сервиса вынести в слой DataAccess через метод расширения
-builder.Services.AddDbContext<AppDbContext>();
+//builder.Services.AddDbContext<AppDbContext>();
+string connection = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(connection));
+
 
 var app = builder.Build();
 

@@ -9,6 +9,7 @@ internal abstract class TimeTrackableConfiguration<TEntity> : IEntityTypeConfigu
     public virtual void Configure(EntityTypeBuilder<TEntity> builder)
     {
         builder.Property(x => x.CreatedAt)
+            .HasColumnType("Date")
             .HasComment("Дата создания записи");
     }
 }

@@ -8,9 +8,11 @@ using NodaTime;
 
 namespace FlightsBot.Infrustructure.Implementation.DataAccess;
 
-public class AppDbContext(DbContextOptions<AppDbContext> options, IClock clock) : DbContext(options), IDbContext
+public class AppDbContext: DbContext, IDbContext
 {
-    private readonly IClock _clock = clock;
+    private readonly IClock _clock;
+
+    public AppDbContext(DbContextOptions<AppDbContext> options, IClock clock) : base(options) => _clock = clock;
 
     public DbSet<Flight> Flights { get; set; }
 

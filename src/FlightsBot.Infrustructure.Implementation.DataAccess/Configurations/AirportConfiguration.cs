@@ -8,5 +8,8 @@ internal class AirPlaneConfiguration: TimeTrackableConfiguration<Airport>
     public override void Configure(EntityTypeBuilder<Airport> builder)
     {
         builder.HasIndex(a => a.IataCode).IsUnique();
+
+        // builder.Property(a => a.CreatedAt)
+        //     .HasColumnType("Date");
     }
 }
