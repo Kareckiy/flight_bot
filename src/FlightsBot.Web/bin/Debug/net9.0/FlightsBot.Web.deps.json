@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "FlightsBot.Web/1.0.0": {
         "dependencies": {
+          "FlightsBot.Controllers": "1.0.0",
           "FlightsBot.Infrustructure.Implementation.DataAccess": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.0"
         },
@@ -658,6 +659,18 @@
         }
       },
       "System.Threading.Channels/7.0.0": {},
+      "FlightsBot.Controllers/1.0.0": {
+        "dependencies": {
+          "FlightsBot.Infrustructure.Implementation.DataAccess": "1.0.0",
+          "FlightsBot.Infrustructure.Interfaces.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "FlightsBot.Controllers.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "FlightsBot.Domain/1.0.0": {
         "dependencies": {
           "Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime": "9.0.4"
@@ -1024,6 +1037,11 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "FlightsBot.Controllers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "FlightsBot.Domain/1.0.0": {
       "type": "project",

@@ -139,3 +139,5 @@
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Web/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Web/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/karetskiy/net/FlightsBot/src/FlightsBot.Web/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Web/bin/Debug/net9.0/FlightsBot.Controllers.dll
+/Users/karetskiy/net/FlightsBot/src/FlightsBot.Web/bin/Debug/net9.0/FlightsBot.Controllers.pdb

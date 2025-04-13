@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FlightsBot.Infrustructure.Implementation.DataAccess\FlightsBot.Infrustructure.Implementation.DataAccess.csproj" />
+    <ProjectReference Include="..\FlightsBot.Controllers\FlightsBot.Controllers.csproj" />
   </ItemGroup>
 
 </Project>

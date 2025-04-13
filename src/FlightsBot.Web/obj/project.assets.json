@@ -994,6 +994,23 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "FlightsBot.Controllers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "FlightsBot.Infrustructure.Implementation.DataAccess": "1.0.0",
+          "FlightsBot.Infrustructure.Interfaces.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FlightsBot.Controllers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FlightsBot.Controllers.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "FlightsBot.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2982,6 +2999,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "FlightsBot.Controllers/1.0.0": {
+      "type": "project",
+      "path": "../FlightsBot.Controllers/FlightsBot.Controllers.csproj",
+      "msbuildProject": "../FlightsBot.Controllers/FlightsBot.Controllers.csproj"
+    },
     "FlightsBot.Domain/1.0.0": {
       "type": "project",
       "path": "../FlightsBot.Domain/FlightsBot.Domain.csproj",
@@ -3000,6 +3022,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "FlightsBot.Controllers >= 1.0.0",
       "FlightsBot.Infrustructure.Implementation.DataAccess >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.0"
     ]
@@ -3029,6 +3052,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/Users/karetskiy/net/FlightsBot/src/FlightsBot.Controllers/FlightsBot.Controllers.csproj": {
+              "projectPath": "/Users/karetskiy/net/FlightsBot/src/FlightsBot.Controllers/FlightsBot.Controllers.csproj"
+            },
             "/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/FlightsBot.Infrustructure.Implementation.DataAccess.csproj": {
               "projectPath": "/Users/karetskiy/net/FlightsBot/src/FlightsBot.Infrustructure.Implementation.DataAccess/FlightsBot.Infrustructure.Implementation.DataAccess.csproj"
             }

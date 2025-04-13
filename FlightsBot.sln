@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsBot.Infrustructure.I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsBot.Infrustructure.Implementation.DataAccess", "src\FlightsBot.Infrustructure.Implementation.DataAccess\FlightsBot.Infrustructure.Implementation.DataAccess.csproj", "{A2219938-BCCC-450C-8421-B118DE9C0CB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsBot.UseCases", "src\FlightsBot.UseCases\FlightsBot.UseCases.csproj", "{3EAE8872-2203-425F-A5CC-03A6A1D841D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsBot.Controllers", "src\FlightsBot.Controllers\FlightsBot.Controllers.csproj", "{45B7BB21-0E79-448E-B7AC-BC3E5A900F40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{A2219938-BCCC-450C-8421-B118DE9C0CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2219938-BCCC-450C-8421-B118DE9C0CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2219938-BCCC-450C-8421-B118DE9C0CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAE8872-2203-425F-A5CC-03A6A1D841D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAE8872-2203-425F-A5CC-03A6A1D841D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAE8872-2203-425F-A5CC-03A6A1D841D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAE8872-2203-425F-A5CC-03A6A1D841D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B7BB21-0E79-448E-B7AC-BC3E5A900F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B7BB21-0E79-448E-B7AC-BC3E5A900F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B7BB21-0E79-448E-B7AC-BC3E5A900F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B7BB21-0E79-448E-B7AC-BC3E5A900F40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +56,7 @@ Global
 		{296AB689-B5E6-41AD-ADEE-1BC5A399F1C8} = {984ECDB1-F400-4ACD-9C09-F158FBCB32A6}
 		{7094BCEB-DCB0-4BB9-B811-B870FBCE534C} = {984ECDB1-F400-4ACD-9C09-F158FBCB32A6}
 		{A2219938-BCCC-450C-8421-B118DE9C0CB7} = {984ECDB1-F400-4ACD-9C09-F158FBCB32A6}
+		{3EAE8872-2203-425F-A5CC-03A6A1D841D8} = {984ECDB1-F400-4ACD-9C09-F158FBCB32A6}
+		{45B7BB21-0E79-448E-B7AC-BC3E5A900F40} = {984ECDB1-F400-4ACD-9C09-F158FBCB32A6}
 	EndGlobalSection
 EndGlobal

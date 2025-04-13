@@ -9,4 +9,10 @@ public class Airplane: TimeTrackableEntity
     public string Name { get; set; } = String.Empty;
 
     public int? PassengersMaxCount { get; set; } = null;
+
+    public Airplane(string name, int? passengersMaxCount)
+    {
+        Name = name;
+        PassengersMaxCount = passengersMaxCount;
+    }
 }

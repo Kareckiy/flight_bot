@@ -8,6 +8,7 @@ using NodaTime;
 
 namespace FlightsBot.Infrustructure.Implementation.DataAccess;
 
+// TODO: для Query сделать READ контекст
 public class AppDbContext: DbContext, IDbContext
 {
     private readonly IClock _clock;

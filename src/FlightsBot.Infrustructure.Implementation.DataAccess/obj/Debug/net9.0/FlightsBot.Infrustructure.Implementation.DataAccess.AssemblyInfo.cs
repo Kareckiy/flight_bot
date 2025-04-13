@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightsBot.Infrustructure.Implementation.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64283337f2e10159833b973c795edf627b0185ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac73674c787b8e8e06cb0c064ef34b8452ce0f66")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightsBot.Infrustructure.Implementation.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightsBot.Infrustructure.Implementation.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

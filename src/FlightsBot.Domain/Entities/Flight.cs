@@ -6,6 +6,11 @@ using NodaTime;
 
 public class Flight: TimeTrackableEntity
 {
+    public Flight(string number)
+    {
+
+    }
+
     public Guid Id { get; set; }
 
     public string Number { get; set; } = String.Empty;

@@ -9,11 +9,11 @@ public interface IDbContext
 
     DbSet<Airplane> Airplanes { get; }
 
-     DbSet<Airport> Airports { get; }
+    DbSet<Airport> Airports { get; }
 
-     DbSet<Carrier> Carriers { get; }
+    DbSet<Carrier> Carriers { get; }
 
-     DbSet<Notification> Notifications { get; }
+    DbSet<Notification> Notifications { get; }
 
-     Task<int> SaveChangesAsync(CancellationToken cancellationToken);
+    Task<int> SaveChangesAsync(CancellationToken cancellationToken);
 }

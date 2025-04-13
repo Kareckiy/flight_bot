@@ -1,4 +1,5 @@
 using FlightsBot.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace FlightsBot.Infrustructure.Implementation.DataAccess.Configurations;
@@ -9,7 +10,6 @@ internal class AirPlaneConfiguration: TimeTrackableConfiguration<Airport>
     {
         builder.HasIndex(a => a.IataCode).IsUnique();
 
-        // builder.Property(a => a.CreatedAt)
-        //     .HasColumnType("Date");
+        builder.Property(a => a.Id).ValueGeneratedOnAdd();
     }
 }
